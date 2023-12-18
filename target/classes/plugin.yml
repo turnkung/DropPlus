@@ -1,0 +1,6 @@
+main: me.araidkub.dropplus.Main
+softdepend: [DecentHolograms]
+api-version: '1.20'
+version: 0.0.1
+name: DropPlus
+author: TurnLnwZa
